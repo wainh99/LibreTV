@@ -138,11 +138,11 @@ const API_SITES = {
     //     name: '百万资源',
     //     adult: true
     // },
-    // souav: {
-    //     api: 'https://api.souavzy.vip',
-    //     name: 'souav资源',
-    //     adult: true
-    // },
+     souav: {
+         api: 'https://api.souavzy.vip',
+         name: 'souav资源',
+         adult: true
+     },
     // r155: {
     //     api: 'https://155api.com',
     //     name: '155资源',
@@ -260,4 +260,4 @@ const CUSTOM_API_CONFIG = {
 };
 
 // 隐藏内置黄色采集站API的变量
-const HIDE_BUILTIN_ADULT_APIS = false;
+const HIDE_BUILTIN_ADULT_APIS = true;
