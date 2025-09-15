@@ -110,9 +110,9 @@ const API_SITES = {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'iKun资源'
     },
-    testSource: {
-        api: 'https://www.example.com/api.php/provide/vod',
-        name: '空内容测试源',
+    xingba: {
+        api: 'https://xingba111.com/api.php/provide/vod',
+        name: '杏吧资源',
         adult: true
     },
     // 下面是一些成人内容的API源，默认隐藏，使用本项目浏览黄色内容违背项目初衷
@@ -164,7 +164,76 @@ const API_SITES = {
     //     name: '玉兔资源',
     //     adult: true
     // },
-
+    // bwzyz: {
+    //     api: 'https://api.bwzyz.com/api.php/provide/vod',
+    //     name: 'AV-百万资源',
+    //     adult: true
+    // },
+    // 91md: {
+    //     api: 'https://91md.me/api.php/provide/vod',
+    //     name: 'AV-91麻豆',
+    //     adult: true
+    // },
+    // lbapiby: {
+    //     api: 'http://lbapiby.com/api.php/provide/vod',
+    //     name: 'AV-AIvin',
+    //     adult: true
+    // },
+    // souavzy: {
+    //     api: 'https://api.souavzy.vip/api.php/provide/vod',
+    //     name: 'AV-souav资源',
+    //     adult: true
+    // },
+    // 91md: {
+    //     api: 'https://lbapi9.com/api.php/provide/vod',
+    //     name: 'AV-乐播资源',
+    //     adult: true
+    // },
+    // aosikazy: {
+    //     api: 'https://aosikazy.com/api.php/provide/vod',
+    //     name: 'AV-奥斯卡资源',
+    //     adult: true
+    // },
+    // Naixxzy: {
+    //     api: 'https://Naixxzy.com/api.php/provide/vod',
+    //     name: 'AV-奶香香',
+    //     adult: true
+    // },
+    // slapibf: {
+    //     api: 'https://slapibf.com/api.php/provide/vod',
+    //     name: 'AV-森林资源',
+    //     adult: true
+    // },
+    // xrbsp: {
+    //     api: 'https://www.xrbsp.com/api/json.php',
+    //     name: 'AV-淫水机资源',
+    //     adult: true
+    // },
+    // fhapi9: {
+    //     api: 'http://fhapi9.com/api.php/provide/vod',
+    //     name: 'AV-番号资源',
+    //     adult: true
+    // },
+    // kxgav: {
+    //     api: 'https://www.kxgav.com/api/json.php',
+    //     name: 'AV-白嫖资源',
+    //     adult: true
+    // },
+    // jingpinx: {
+    //     api: 'https://www.jingpinx.com/api.php/provide/vod',
+    //     name: 'AV-精品资源',
+    //     adult: true
+    // },
+    // msnii: {
+    //     api: 'https://www.msnii.com/api/json.php',
+    //     name: 'AV-美少女资源',
+    //     adult: true
+    // },
+    // maozyapi: {
+    //     api: 'https://api.maozyapi.com/inc/apijson_vod.php',
+    //     name: 'AV-色猫资源',
+    //     adult: true
+    // },
     // 下面是资源失效率高的API源，不建议使用
     // subo: {
     //     api: 'https://subocaiji.com/api.php/provide/vod',
