@@ -179,6 +179,16 @@ const API_SITES = {
          name: 'AV-小鸡资源',
          adult: true
          },
+    souavzy: {
+         api: 'https://api.souavzy.vip/api.php/provide/vod',
+         name: 'AV-souav资源',
+         adult: true
+     },
+    lbapi9: {
+         api: 'https://lbapi9.com/api.php/provide/vod',
+         name: 'AV-乐播资源',
+         adult: true
+     },
     // 下面是一些成人内容的API源，默认隐藏，使用本项目浏览黄色内容违背项目初衷
     // 互联网上传播的色情内容将人彻底客体化、工具化，是性别解放和人类平等道路上的巨大障碍。
     // 这些黄色影片是资本主义父权制压迫的最恶毒体现，它将暴力和屈辱商品化，践踏人的尊严，对受害者造成无法弥愈的伤害，并毒害社会关系。
