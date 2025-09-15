@@ -119,31 +119,66 @@ const API_SITES = {
         name: '杏吧资源',
         adult: true
     },
-    bwzyz: {
-         api: 'https://api.bwzyz.com/api.php/provide/vod',
-         name: 'AV-百万资源',
+    aosikazy: {
+         api: 'https://aosikazy.com/api.php/provide/vod',
+         name: 'AV-奥斯卡资源',
          adult: true
      },
-    91md: {
-         api: 'https://91md.me/api.php/provide/vod',
-         name: 'AV-91麻豆',
+    Naixxzy: {
+         api: 'https://Naixxzy.com/api.php/provide/vod',
+         name: 'AV-奶香香',
          adult: true
      },
-    lbapiby: {
-         api: 'http://lbapiby.com/api.php/provide/vod',
-         name: 'AV-AIvin',
+    slapibf: {
+         api: 'https://slapibf.com/api.php/provide/vod',
+         name: 'AV-森林资源',
          adult: true
      },
-    souavzy: {
-         api: 'https://api.souavzy.vip/api.php/provide/vod',
-         name: 'AV-souav资源',
+    xrbsp: {
+         api: 'https://www.xrbsp.com/api/json.php',
+         name: 'AV-淫水机资源',
          adult: true
      },
-    lbapi9: {
-         api: 'https://lbapi9.com/api.php/provide/vod',
-         name: 'AV-乐播资源',
+    fhapi9: {
+         api: 'http://fhapi9.com/api.php/provide/vod',
+         name: 'AV-番号资源',
          adult: true
      },
+    kxgav: {
+         api: 'https://www.kxgav.com/api/json.php',
+         name: 'AV-白嫖资源',
+         adult: true
+     },
+    jingpinx: {
+         api: 'https://www.jingpinx.com/api.php/provide/vod',
+         name: 'AV-精品资源',
+         adult: true
+     },
+    msnii: {
+         api: 'https://www.msnii.com/api/json.php',
+         name: 'AV-美少女资源',
+         adult: true
+     },
+    maozyapi: {
+         api: 'https://api.maozyapi.com/inc/apijson_vod.php',
+         name: 'AV-色猫资源',
+         adult: true
+     },
+    apilj: {
+         api: 'https://apilj.com/api.php/provide',
+         name: 'AV-辣椒资源',
+         adult: true
+     },
+    xxibaozyw: {
+         api: 'https://www.xxibaozyw.com/api.php/provide/vod',
+         name: 'AV-细胞采集',
+         adult: true
+     },
+    xiaojizy: {
+         api: 'https://api.xiaojizy.live/provide/vod',
+         name: 'AV-小鸡资源',
+         adult: true
+         },
     // 下面是一些成人内容的API源，默认隐藏，使用本项目浏览黄色内容违背项目初衷
     // 互联网上传播的色情内容将人彻底客体化、工具化，是性别解放和人类平等道路上的巨大障碍。
     // 这些黄色影片是资本主义父权制压迫的最恶毒体现，它将暴力和屈辱商品化，践踏人的尊严，对受害者造成无法弥愈的伤害，并毒害社会关系。
