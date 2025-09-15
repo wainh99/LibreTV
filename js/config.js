@@ -189,7 +189,7 @@ const API_SITES = {
          name: 'AV-乐播资源',
          adult: true
      },
-    91md: {
+    md91: {
          api: 'https://91md.me/api.php/provide/vod',
          name: 'AV-91麻豆',
          adult: true
