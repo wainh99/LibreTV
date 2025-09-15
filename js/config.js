@@ -179,10 +179,10 @@ const API_SITES = {
          adult: true
      },
     lbapiby: {
-    //     api: 'http://lbapiby.com/api.php/provide/vod',
-    //     name: 'AV-AIvin',
-    //     adult: true
-    // },
+         api: 'http://lbapiby.com/api.php/provide/vod',
+         name: 'AV-AIvin',
+         adult: true
+     },
     souavzy: {
          api: 'https://api.souavzy.vip/api.php/provide/vod',
          name: 'AV-souav资源',
@@ -252,6 +252,7 @@ const API_SITES = {
          api: 'https://api.xiaojizy.live/provide/vod',
          name: 'AV-小鸡资源',
          adult: true
+         },
     // 下面是资源失效率高的API源，不建议使用
     // subo: {
     //     api: 'https://subocaiji.com/api.php/provide/vod',
